@@ -1,0 +1,70 @@
+[{
+	"ip": {
+		"noactive": {
+			"noworkers": {
+				"usn1" : 1200,
+				"usn2" : 1200,
+				"osno" : 2200,
+				"envd" : false,
+				"envdplus" : false
+			},
+			"workers": {
+				"usn1" : 3000,
+				"usn2" : 3000,
+				"osno" : 4000,
+				"envd" : false,
+				"envdplus" : false
+			}
+		},
+		"active": {
+			"noworkers": {
+				"usn1" : 5000,
+				"usn2" : 6500,
+				"osno" : 8000,
+				"envd" : 1500,
+				"envdplus" : 500
+			},
+			"workers": {
+				"usn1" : 7000,
+				"usn2" : 8500,
+				"osno" : 10000,
+				"envd" : 2500,
+				"envdplus" : 1000
+			}
+		}
+	},
+	"ur": {
+		"noactive": {
+			"noworkers": {
+				"usn1" : 3000,
+				"usn2" : 3000,
+				"osno" : 4000,
+				"envd" : false,
+				"envdplus" : false
+			},
+			"workers": {
+				"usn1" : 3000,
+				"usn2" : 3000,
+				"osno" : 4000,
+				"envd" : false,
+				"envdplus" : false
+			}
+		},
+		"active": {
+			"noworkers": {
+				"usn1" : 5000,
+				"usn2" : 6500,
+				"osno" : 8000,
+				"envd" : 5000,
+				"envdplus" : 1500
+			},
+			"workers": {
+				"usn1" : 7000,
+				"usn2" : 8500,
+				"osno" : 10000,
+				"envd" : 7000,
+				"envdplus" : 1500
+			}
+		}
+	}
+}]
